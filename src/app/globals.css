@@ -2,3 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+a {
+    @apply text-blue-500;
+}
+
+pre {
+    @apply bg-zinc-900 p-4 rounded-lg text-wrap;
+}
+
+code {
+    @apply text-zinc-300 bg-zinc-900 rounded font-mono;
+}

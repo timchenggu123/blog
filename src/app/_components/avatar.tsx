@@ -7,7 +7,7 @@ type Props = {
 
 const Avatar = () => {
   return (
-    <Link href="https://timgu.me">
+    <Link href="https://timgu.me" className={"text-black dark:text-gray-200"}>
     <div className="flex items-center px-4">
       <img src={"/assets/blog/avatar/tim.jpeg"} className="w-12 h-12 rounded-full mr-4" alt="Tim Gu" />
       <div className="text-xl font-bold">Tim Gu</div>
