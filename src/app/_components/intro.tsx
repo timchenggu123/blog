@@ -8,13 +8,10 @@ export function Intro() {
         <h1 className="text-3xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8 md:pb-0 pb-8">
           {">"} <u>Hi👋! Welcome to my blog!</u>
         </h1>
-        {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-          A place where I rant. A lot
-        </h4> */}
         <Avatar/>
       </section>
       <p className="text-center md:text-left text-lg mb-16 md:mb-12">
-          <b>About me</b>: I am a software engineer who loves tech, games, and photography. This is my personal blog where I write about random thoughts. It is mainly going to be tech stuff, but I might throw in some random things as well. Enjoy! 🚀
+          <b>About me</b>: I am a software engineer who loves tech, games, and photography. This is my personal blog where I write about random thoughts. It is mainly going to be tech stuff, but I might throw in some weird things as well. Enjoy! 🚀
       </p>
     </section>
   );
