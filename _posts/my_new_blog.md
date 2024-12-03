@@ -1,6 +1,6 @@
 ---
 title: "My New Blog!"
-excerpt: "I am starting a blog! It is mostly goning to be about tech, but I might throw in some other stuff too."
+excerpt: "I am starting a blog! It is mostly going to be about tech, but I might throw in some other stuff too."
 coverImage: "/assets/blog/my_new_blog/cover.png"
 date: "2024-11-29T12:05:07.322Z"
 author:
